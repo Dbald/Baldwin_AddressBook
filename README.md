@@ -1,5 +1,5 @@
-# Baldwin_AddressBook
-GOAL and Outcomes:
+# Project 1 - Address Book Console Application
+Goal and Outcomes:
 
 This project will serve you in developing your OOP skills through developing an Address Book Console Application that requires assembling a solution out of modular classes, giving each class a good API for its client(s) and testing. This requires:
 
